@@ -6,7 +6,9 @@
 
 ### Download the script
 
-....
+```sh
+wget https://github.com/xtuc/falias/releases/download/v0.1.0/falias.zsh
+```
 
 ### Move it into your home
 
