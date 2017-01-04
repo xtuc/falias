@@ -1,5 +1,7 @@
 # falias
 
+![demo](.github/demo.png)
+
 ## Installation
 
 ### Download the script
