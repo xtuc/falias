@@ -22,11 +22,7 @@ echo "source ~/.falias.zsh" >> ~/.zshrc
 
 ## Usage
 
-The first time you will need to update ZSH:
-
-```sh
-source ~/.zshrc
-```
+The first time you will need to update ZSH: `source ~/.zshrc`
 
 ```sh
 falias
