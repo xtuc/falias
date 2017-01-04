@@ -1,5 +1,7 @@
 # falias
 
+> When it's time to fuzzy-search into your bash aliases and functions
+
 ![demo](.github/demo.png)
 
 ## Installation
@@ -29,6 +31,8 @@ The first time you will need to update ZSH: `source ~/.zshrc`
 ```sh
 falias
 ```
+
+The command will be run directly after selection.
 
 ## Requirements
 
